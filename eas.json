@@ -7,7 +7,7 @@
       },
       "preview2": {
         "android": {
-          "gradleCommand": ":app:assembleRelease"  com.my_account666.myapp
+          "gradleCommand": ":app:assembleRelease" 
         }
       },
       "preview3": {
